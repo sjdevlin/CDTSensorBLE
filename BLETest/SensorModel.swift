@@ -2,7 +2,7 @@
 //  MeetingModel.swift
 //  BLETest
 //
-//  Created by Stephen Devlin on 26/12/2022.
+//  Created by Stephen Devlin on 26/11/2023.
 //
 
 import SwiftUI
